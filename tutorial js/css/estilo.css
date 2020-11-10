@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 420px;
+	max-height: 320px;
+	margin-top: 200px;
+	border:2px solid #2E86C1;
+	margin-left: 300px;
+	padding: 20px 0 20px 0;
+	border-radius: 10px;
+}
+
+.contenedor2{
+	background: #EC7063;
+	width: 520px;
+	max-height: 320px;
+	margin-top: 200px;
+	border:2px solid #000;
+	margin-left: 300px;
+	padding: 20px 0 20px 0;
+}
+
+#boton2{
+	font-size: 40px;
+	margin-left: 119.01px;
+	border: 2px solid #000;
+}
+
+#boton{
+	font-size: 40px;
+	margin-left: 119.01px;
+}
+
+/*#boton:hover{
+	background: #008f39;
+	transition: all .5s ease-in-out;
+	text-decoration: none;
+	border: 1px solid #008f39;
+}
